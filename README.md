@@ -9,9 +9,8 @@ Los pasos fronterizos terrestres chilenos presentan esperas de 8 a 20 horas por 
 ## Integrantes del equipo
 | Nombre | Rol |
 |--------|-----|
-| [Integrante 1] | [Rol] |
-| [Integrante 2] | [Rol] |
-| [Integrante 3] | [Rol] |
+| Felipe De Goyeneche | Desarrollo prototipo y documentación |
+| Maximiliano Masferrer | Desarrollo prototipo y pruebas |
 
 ## Prototipo funcional
 **Link Figma:** https://www.figma.com/make/1F5SUtF485joOMOzVwVMaz/Sistema-Aduana-EP3?fullscreen=1&t=YzKIVUhgkffcLKlC-1&code-node-id=0-9
