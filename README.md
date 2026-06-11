@@ -22,8 +22,7 @@ Sistema-Aduana-EP3/
 ├── prototipo/        → Link Figma y capturas de pantallas
 ├── pruebas/          → Plan de pruebas ISO25000 y planilla de casos
 ├── versionado/       → Registro de control de cambios
-├── informe/          → Informe EP3 completo (.docx)
-└── coevaluacion/     → Evaluación del equipo asignado
+└── informe/          → Informe EP3 completo (.docx)
 ```
 
 ## Tecnologías y normas utilizadas
